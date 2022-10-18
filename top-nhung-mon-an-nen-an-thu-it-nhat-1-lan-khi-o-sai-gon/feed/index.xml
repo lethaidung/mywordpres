@@ -1,3 +1,9 @@
+<br />
+<b>Warning</b>:  Attempt to read property "post_type" on null in <b>D:\xampp\htdocs\myproject\wordpress\wp-includes\class-wp-query.php</b> on line <b>4365</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_type" on null in <b>D:\xampp\htdocs\myproject\wordpress\wp-includes\class-wp-query.php</b> on line <b>4365</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_type" on null in <b>D:\xampp\htdocs\myproject\wordpress\wp-includes\class-wp-query.php</b> on line <b>4365</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,43 +13,15 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Top những món ăn nên ăn thử ít nhất 1 lần khi ở Sài Gòn?	</title>
+	Các phản hồi luận về: 	</title>
 	<atom:link href="http://localhost/myproject/wordpress/top-nhung-mon-an-nen-an-thu-it-nhat-1-lan-khi-o-sai-gon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lethaidung.github.io/mywordpres/top-nhung-mon-an-nen-an-thu-it-nhat-1-lan-khi-o-sai-gon/</link>
+	<link></link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 23 Aug 2022 03:13:29 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 03:42:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
-	<item>
-		<title>
-		Bởi: lethaidung		</title>
-		<link>https://lethaidung.github.io/mywordpres/top-nhung-mon-an-nen-an-thu-it-nhat-1-lan-khi-o-sai-gon/#comment-3</link>
-
-		<dc:creator><![CDATA[lethaidung]]></dc:creator>
-		<pubDate>Tue, 23 Aug 2022 03:13:29 +0000</pubDate>
-		<guid isPermaLink="false">https://lethaidung.github.io/mywordpres/?p=5#comment-3</guid>
-
-					<description><![CDATA[hello chào tất cả các bạn]]></description>
-			<content:encoded><![CDATA[<p>hello chào tất cả các bạn</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Bởi: lethaidung		</title>
-		<link>https://lethaidung.github.io/mywordpres/top-nhung-mon-an-nen-an-thu-it-nhat-1-lan-khi-o-sai-gon/#comment-2</link>
-
-		<dc:creator><![CDATA[lethaidung]]></dc:creator>
-		<pubDate>Tue, 23 Aug 2022 03:12:18 +0000</pubDate>
-		<guid isPermaLink="false">https://lethaidung.github.io/mywordpres/?p=5#comment-2</guid>
-
-					<description><![CDATA[QUÁ VIP]]></description>
-			<content:encoded><![CDATA[<p>QUÁ VIP</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+</channel>
 </rss>

@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lethaidung.github.io/mywordpres</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 01:32:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 03:06:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Televion</title>
 		<link>https://lethaidung.github.io/mywordpres/product/televion/</link>

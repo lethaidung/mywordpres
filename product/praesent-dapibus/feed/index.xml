@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/product/praesent-dapibus/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lethaidung.github.io/mywordpres/product/praesent-dapibus/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 01:29:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 02:10:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
