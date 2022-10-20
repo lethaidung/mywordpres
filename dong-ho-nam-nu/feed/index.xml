@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho thaidung	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	Các phản hồi luận về: Đồng hồ nam nữ	</title>
+	<atom:link href="http://localhost/myproject/wordpress/dong-ho-nam-nu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lethaidung.github.io/mywordpres</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 20 Oct 2022 00:30:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 03:42:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
